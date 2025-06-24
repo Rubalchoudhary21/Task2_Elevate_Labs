@@ -1,0 +1,25 @@
+From:Amazon <no-reply@amazon.com>
+To: user@example.com
+Subject: Action Required: Problem with Your Amazon Order #947-2438792-28732
+Date: Mon, 24 June 2025 10:22:14 +0530
+
+
+Dear Customer,
+
+We noticed unusual activity with your recent Amazon order. For your security, we’ve temporarily placed your order on hold.
+
+Order Number: 947-2438792-28732
+Placed on: June 23, 2025
+
+To avoid cancellation, please verify your order by visiting the link below:
+
+Click here to verify your account
+
+If you do not take action within 24 hours, your order will be automatically cancelled.
+
+Thank you,
+Amazon Account Security Team
+
+This is an automated message. Please do not reply.
+
+[Attachment: restore_account_form.zip]
